@@ -15,7 +15,7 @@ let gpsErr = document.querySelector("#err-txt");
 
 async function bysearch(city) {
   const key = "8523d60e0418c32de5d3e3f5287ba4f1";
-  const url = `http://api.openweathermap.org/geo/1.0/direct?q=${city}&appid=${key}`;
+  const url = `https://api.openweathermap.org/geo/1.0/direct?q=${city}&appid=${key}`;
 
   let data = await fetch(url);
   let json = await data.json();
