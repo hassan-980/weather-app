@@ -1,5 +1,7 @@
 # ⛅ Weather App 🌍
 
+visit🔗:  **[Live Demo](https://weather-app99.vercel.app/)**
+
 A responsive web app that shows real-time weather updates for any city using either **manual search** or **your current location** via the "📍 Use My Location" button. Powered by OpenWeatherMap API.
 
 ---
@@ -16,9 +18,9 @@ A responsive web app that shows real-time weather updates for any city using eit
 
 ## 📸 Demo
 
-> _Add a screenshot or live demo GIF here_
+<img width="100%" alt="Screenshot" src="https://github.com/hassan-980/weather-app/blob/main/weatherapp.png?raw=true">
 
-Or visit: **[Live Demo](https://your-live-demo-link.com)**
+Or visit: **[Live Demo](https://weather-app99.vercel.app/)**
 
 ---
 
